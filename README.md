@@ -9,4 +9,5 @@ Clone or download the repo, then go to your oneshot files and copy the following
 * Graphics
 * Languages and
 * Wallpaper
+
 Now execute the game as any other love2D game and it should run
